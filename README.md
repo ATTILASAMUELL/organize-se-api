@@ -10,7 +10,7 @@
 ## API ORGANIZE-SE 
 Desenvolvimento de uma API  - Organize-SE ATTILA TABORY - API 
  + Laravel.
- + Bearer Token - Laravel Sanctum.
+ + Bearer Token - JWT.
 
 
 
